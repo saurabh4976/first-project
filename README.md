@@ -1,5 +1,5 @@
 # first-project
 this is my first project
 <br>
-author-saurabh patel(pardhol)git
+author-saurabh patel(pardhol)
 
